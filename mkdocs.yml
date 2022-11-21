@@ -1,4 +1,4 @@
-site_name: Documentation Template
+site_name: CMMC
 
 nav:
     - About: index.md
