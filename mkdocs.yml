@@ -1,4 +1,7 @@
 site_name: CMMC
+edit_uri: https://github.com/Wang-Bioinformatics-Lab/CMMC_Website/edit/master/docs/
+repo_name: CMMC_Website
+repo_url: https://github.com/Wang-Bioinformatics-Lab/CMMC_Website
 
 nav:
     - Home Page: index.md
@@ -12,9 +15,7 @@ theme:
 extra:
     social:
         - type: 'github'
-          link: 'https://github.com/mwang87'
-        - type: 'twitter'
-          link: 'https://twitter.com/mingxunwang'
+          link: 'https://github.com/Wang-Bioinformatics-Lab/CMMC_Website'
 
 plugins:
     - search
