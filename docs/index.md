@@ -21,6 +21,9 @@ Check out [Microbe MASST](https://masst.ucsd.edu/microbemasst/)!
 ## Leadership
 
 Pieter C. Dorrestein - UC San Diego
+
 Mingxun Wang - UC Riverside
+
 Nuno Bandiera - UC San Diego
+
 Robin Knight - UC San Diego
