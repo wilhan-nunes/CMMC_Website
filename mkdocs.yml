@@ -1,7 +1,7 @@
 site_name: CMMC
 
 nav:
-    - About: index.md
+    - Home Page: index.md
     
 theme:
     name: material
