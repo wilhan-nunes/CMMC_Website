@@ -1,8 +1,8 @@
-# Collaborative Microbial Metabolomics Center
+# Collaborative Microbial Metabolite Center
 
 ![](img/logo.png)
 
-Welcome to the Collaborative Microbial Metabolomics (CMMC) Center at the UC San Diego and UC Riverside. The goal of the CMMC is the Identification and Characterization of Bioactive Microbial Metabolites. This center is funded by the National Institutes of Health (NIH) Advancing Research on Microbe-Diet-Host Interactions Knowledgebase Management Center (U24) grant mechanism. 
+Welcome to the Collaborative Microbial Metabolite (CMMC) Center at the UC San Diego and UC Riverside. The goal of the CMMC is the Identification and Characterization of Bioactive Microbial Metabolites. This center is funded by the National Institutes of Health (NIH) Advancing Research on Microbe-Diet-Host Interactions Knowledgebase Management Center (U24) grant mechanism. 
 
 ## Key Objectives
 
