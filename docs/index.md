@@ -27,7 +27,10 @@ This infrastructure us being build with R01's that responded to
 Identification and Characterization of Bioactive Microbial Metabolites for Advancing Research on Microbe-Diet-Host Interactions (R01) https://grants.nih.gov/grants/guide/pa-files/par-21-253.html Here is a link to all the current R01 grantees that received awards under this mechanism - [All R01 Grants Link](https://reporter.nih.gov/search/eJ5UvHBXWU6-ZQa83cfFnw/projects). In addition the CMMC will be curated with the large scientific community.
 
 ## Leadership
-Pieter C. Dorrestein - UC San Diego - [Lab Link](https://dorresteinlab.ucsd.edu/) \
-Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/) \
-Nuno Bandiera - UC San Diego \
-Robin Knight - UC San Diego \
+Pieter C. Dorrestein - UC San Diego - [Lab Link](https://dorresteinlab.ucsd.edu/)
+
+Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/)
+
+Nuno Bandiera - UC San Diego
+
+Robin Knight - UC San Diego
