@@ -11,7 +11,7 @@ We aim to capture the knowledge about microbial metabolites, even detectable but
 Here is a list of tools that were developed specifically for the CMMC that is in conjunction with the computational tools available at UCSD and UCR. 
 
 ### Microbial metabolite knowledge upload portal.
-To build the microbial knowledgebase we have generated an upload portal. This will generate the foundational knowledgebase to enable future tool building. As RO1 gratees add to the knowledgebase it will be immediately usable in GNPS based molecular networking ([Link](https://ccms-ucsd.github.io/GNPSDocumentation/)so that microbial metabolite knowledge can be immediately identified from complex samples. If a batch upload on microbial knowledge is needed, please contact Dorrestein and Wang at pdorrestein@health.ucsd.edu or mingxun.wang@ucr.edu.
+To build the microbial knowledgebase we have generated an upload portal. This will generate the foundational knowledgebase to enable future tool building. As RO1 gratees add to the knowledgebase it will be immediately usable in GNPS based molecular networking ([Link](https://ccms-ucsd.github.io/GNPSDocumentation/) ) so that microbial metabolite knowledge can be immediately identified from complex samples. If a batch upload on microbial knowledge is needed, please contact Dorrestein and Wang at pdorrestein@health.ucsd.edu or mingxun.wang@ucr.edu.
 
 <!-- !!!!MING TO DO create the firs generation link to simple interface for building the knowledgebase!!!!. -->
 
