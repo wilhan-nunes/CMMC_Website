@@ -31,27 +31,27 @@ CMMC-kb provides a platform for users to contribute their own microbial metaboli
 
 2. Navigate to the GNPS2 website and click on the “Launch Workflows” button
 
-![img](docs/img/CMMC_deposition/Slide1.png)
+![img](img/CMMC_deposition/Slide1.png)
 
 3. This will show the list of available workflows on GNPS2. from this list, select the “_cmmc_deposition_workflow_” and click on _“Launch Workflow_” to start
 
-![img](docs/img/CMMC_deposition/Slide2.png)
+![img](img/CMMC_deposition/Slide2.png)
 
 4. At the “_Job Description_” field you are free to fill in what you want (eg. name of metabolite you want to deposit). This description will only be visible for you and it will be the name under which the “_Task_” will be visible in your “_Tasks_” list. This field is not uploaded to CMMC-kb.
 
 5. At the field of the “Workflow” you will select “_Single Upload_’.
 
-![img](docs/img/CMMC_deposition/Slide3.png)
+![img](img/CMMC_deposition/Slide3.png)
    
 6. If you scroll down you will see all the different fields that will have to be filled out with information about the metabolite you want to deposit to the CMMC-kb. The only mandatory field to be filled out is the first one: “_MS/MS identifier_”. Each field is explained in detail below under section **“Step-by-step guideline Input Fields for CMMC-kb workflow**”. Please fill out as many fields as possible for the metabolite you want to deposit.
 
 7. Once you have finished filling out the fields, you can click on the button “_Submit workflow_”. 
 
-![img](docs/img/CMMC_deposition/Slide4.png)
+![img](img/CMMC_deposition/Slide4.png)
 
 8. The task will appear in the menu “Tasks” on the top of your screen:
 
-![img](docs/img/CMMC_deposition/Slide5.png)
+![img](img/CMMC_deposition/Slide5.png)
 
 9. Once the upload is complete, the status of the workflow will change from “RUNNING” to “DONE”. If the status is showing “FAILED”, please consult the FAQ section for possible solutions.
 
@@ -65,12 +65,12 @@ Although there's an option to upload individual microbial metabolites, users see
 
 The template has the following format:
 
-![img](docs/img/CMMC_deposition/Slide6.png)
+![img](img/CMMC_deposition/Slide6.png)
 
 3. Download the spreadsheet as tab-separated values (.tsv).
    - Save a copy of the CMMC-kb metabolite information template by going to "File - Make a copy" into a personal google drive or save a local copy to your computer (use the .tsv format or tab-delimited .txt file). 
 
-![img](docs/img/CMMC_deposition/Slide7.png)
+![img](img/CMMC_deposition/Slide7.png)
 
 4. Fill in metabolite information in the respective fields or by using the drop-down menus when applicable for each microbiome related metabolite you want to upload.
 
@@ -80,27 +80,27 @@ The template has the following format:
 
    -> Select **Batch Upload**
 
-![img](docs/img/CMMC_deposition/Slide8.png)
+![img](img/CMMC_deposition/Slide8.png)
 
 7. Upload your .tsv file to your online environment in GNPS2:
    - Select the menu "File Browser" on the top right
 
-![img](docs/img/CMMC_deposition/Slide9.png)
+![img](img/CMMC_deposition/Slide9.png)
 
    - Another browser window will open where you will be able to see and organize your files. You can create a new folder (for example: “_CMMC_” and then select "Upload" (red arrow) at the top right. Select your file .tsv file.
 
-![img](docs/img/CMMC_deposition/Slide10.png)
+![img](img/CMMC_deposition/Slide10.png)
 
 8. You can return to the browser where the workflow is open. Select the .tsv file you just uploaded in the “File browser”:
    - Click on "Select TSV file path"
 
-![img](docs/img/CMMC_deposition/Slide11.png)
+![img](img/CMMC_deposition/Slide11.png)
 
    - Select the .tsv file you want to deposit, and then click on "Add Selected File to TSV file path". 
 
-![img](docs/img/CMMC_deposition/Slide12.png)
+![img](img/CMMC_deposition/Slide12.png)
 
-![img](docs/img/CMMC_deposition/Slide13.png)
+![img](img/CMMC_deposition/Slide13.png)
 
 9. Press 'Submit Workflow'
 
@@ -202,7 +202,7 @@ _MIBiG, which stands for Minimum Information about a Biosynthetic Gene cluster, 
 
 If the knowledge about the biosynthesis of the metabolite has been curated in MIBiG, enter the accession number (https://mibig.secondarymetabolites.org/repository). In the screenshot below, the accession number for “penicillin” is marked in yellow. 
 
-![img](docs/img/CMMC_deposition/Slide14.png)
+![img](img/CMMC_deposition/Slide14.png)
 
 ### Biosynthesis of the molecule (set of Gene names or sequence and description) (input_biosynthesis_genes)
 If the MIBiG repository doesn't contain biosynthesis details for the metabolite, kindly share any relevant information you possess. If multiple genes are involved or can produce the metabolite, these can be added separated by semicolon. This could be gene names or sequence data. For sequence submissions, please use the FASTA format.
@@ -285,7 +285,7 @@ _**Example:** NMR available at: https://np-mrd.org/natural_products/NP0001009_
 ## What does each column mean?
 The Step-by-step guideline above gives detailed information on what each column means and the second sheet in the batch template called "Information and Columns Descriptions", also contains detailed information on each column.
 
-![img](docs/img/CMMC_deposition/Slide15.png)
+![img](img/CMMC_deposition/Slide15.png)
 
 
 ## Page Contributions
