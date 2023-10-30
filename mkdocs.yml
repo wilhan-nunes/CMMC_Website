@@ -5,6 +5,9 @@ repo_url: https://github.com/Wang-Bioinformatics-Lab/CMMC_Website
 
 nav:
     - Home Page: index.md
+    - Documentation:
+        - CMMC Deposition Workflow: deposition_documentation.md
+        - Network Enrichment analysis: network_enrichment.md
     
 theme:
     name: material
