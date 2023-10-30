@@ -29,7 +29,7 @@ CMMC-kb provides a platform for users to contribute their own microbial metaboli
 ### Detailed step-by-step instructions:
 1. Sign-up or login to your GNPS2 account
 
-2. Navigate to “Launch Workflows” and click on the “Launch Workflows” button
+2. Navigate to the GNPS2 website and click on the “Launch Workflows” button
 
 ![img](docs/img/CMMC_deposition/Slide1.png)
 
