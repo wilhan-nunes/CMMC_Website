@@ -14,11 +14,11 @@ This is a guide for Network Enrichment Workflow in the collaborative microbial m
 
 2. Navigate to the GNPS2 website and click on the “Launch Workflows” button
 
-![img](docs/img/Network_enrichment/Slide1.png)
+![img](img/Network_enrichment/Slide1.png)
 
 3. This will show the list of available workflows on GNPS2. from this list, select the “cmmc_gnps_network_enrichment_workflow” and click on “Launch Workflow” to start.
 
-![img](docs/img/Network_enrichment/Slide2.png)
+![img](img/Network_enrichment/Slide2.png)
 
 4. At the “Job Description” field you are free to fill in what you want (eg. name of network you want to enrich).
 
@@ -29,7 +29,7 @@ https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=9c5a9839da084a258c588c61fe33be6
 
 The input in the “GNPS Networking Task” is: 9c5a9839da084a258c588c61fe33be61
 
-![img](docs/img/Network_enrichment/Slide3.png)
+![img](img/Network_enrichment/Slide3.png)
 
 6. Choose the type of network to be enrich: 
   - Classical:  Select Classical if the original molecular networking job was run on the classical workflow (i.e., the data was not pre-processed prior to molecular networking).
@@ -37,7 +37,7 @@ The input in the “GNPS Networking Task” is: 9c5a9839da084a258c588c61fe33be61
 
 7. In the “Library Search” section, fill out the following fields.
 
-![img](docs/img/Network_enrichment/Slide4.png)
+![img](img/Network_enrichment/Slide4.png)
 
   - **Precursor Ion tolerance:** Parameter used for spectral library search, expressed in Daltons.  This value specifies how much the precursor ions can be shifted from their expected m/z values. Note that the value of this parameter should be consistent with the capabilities of the mass spectrometer and the specific instrument method used to generate the MS/MS data. Recommended value is ± 0.02 Da for high-resolution instruments (q-TOF, q-Orbitrap) and ± 2.0 Da for low-resolution instruments (ion traps, QqQ). 
   
@@ -61,21 +61,21 @@ _Default: False_
 
 9. After the status of the job is marked as Done, a first overview of the results can be achieved by clicking on “CMMC Search Results”.
 
-![img](docs/img/Network_enrichment/Slide5.png)
+![img](img/Network_enrichment/Slide5.png)
 
 10. After clicking on “CMMC Search Results”, a new window opens that looks like this one, and rapidly you can see which metabolites deposited in CMMC matched with the experimental spectra. In addition, you can see which microbes produce these compounds (in the example below, deoxycholic acid conjugated to alanine).
 
-![img](docs/img/Network_enrichment/Slide6.png)
+![img](img/Network_enrichment/Slide6.png)
 
 11. To do molecular networking, scroll down under the “Task Results Links” and click on "Browse All Results” if you want to specifically download the results for the molecular networking visualization. You can also click on "Download All Results" if you want to have all files in your local computer.
 
-![img](docs/img/Network_enrichment/Slide7.png)
+![img](img/Network_enrichment/Slide7.png)
 
 12. In the “gnps_network” folder, download the “network.graphml” file that will be imported in the Cytoscape software.
 
 13. In the “cmmc_results" folder, download the “cmmc_enriched_results.tsv” table, which will be uploaded later on on Cytoscape. 
 
-![img](docs/img/Network_enrichment/Slide8.png)
+![img](img/Network_enrichment/Slide8.png)
 
 
 ## Network Enrichment Visualization in Cytoscape
@@ -83,34 +83,34 @@ Cytoscape is an open-source software platform for visualization and annotation o
 
 14. Now open Cytoscape 3.10.1. From the Toolbar, go to File / Import / Network from File and then select the **.graphml** file (see point #10 if necessary). You can also drag and drop this file into Cytoscape. You can select whichever style you prefer after that.
 
-![img](docs/img/Network_enrichment/Slide9.png)
+![img](img/Network_enrichment/Slide9.png)
 
 
 15. From the Toolbar, go to File / Import / table from File and then select the **.tsv** file (see point #11 if necessary).
 
-![img](docs/img/Network_enrichment/Slide10.png)
+![img](img/Network_enrichment/Slide10.png)
 
 17. A new window will open that will look like this.
 
-![img](docs/img/Network_enrichment/Slide11.png)
+![img](img/Network_enrichment/Slide11.png)
 
 Click on the “**query_scan**” column of the table to be imported, and click on the “**key sign**”. This means that this column will be directly compared with the "shared name" column under the Key Column for Network field. In this case, "shared name" is already part of the .graphml file initially imported and it is an information referred to the cluster index (if a classical molecular networking job was run), or to the scan number (if FBMN job was run).
 
-![img](docs/img/Network_enrichment/Slide12.png)
+![img](img/Network_enrichment/Slide12.png)
 
 17. All the columns present in the imported table can now be observed in the note table, including the  “**input_microbe_name**” column.
 
-![img](docs/img/Network_enrichment/Slide13.png)
+![img](img/Network_enrichment/Slide13.png)
 
 18. On the left side menu, under the “Fill Color”, in the column select “input_microbe_name” and under “Mapping Type” select “Discrete Mapping”.
 
 19. Select all the rows that show up (lists of microbes), right-click and “Edit” then, “Edits Selected Discrete Mapping Values”. Then, select the color of your choice and your network should like this. In this case, the nodes that are colored as green represent features that had a library match with the spectra deposited in CMMC and that have microbial information associated with them.
 
-![img](docs/img/Network_enrichment/Slide14.png)
+![img](img/Network_enrichment/Slide14.png)
 
 20. On the left side, under the “Label”, in the column select “Library_compound_name” and under “Mapping Type” select “Passthrough Mapping”. In this way, the compound names that were retrieved from CMMC can be shown as nodes labels.
 
-![img](docs/img/Network_enrichment/Slide15.png)
+![img](img/Network_enrichment/Slide15.png)
 
 21. **Conclusion:** Now, we can see all the microbial-conjugated bile acids (MCBAs) (green nodes), especially which microbes (see yellow box) can produce Phe-CA (see black arrow). 
 
