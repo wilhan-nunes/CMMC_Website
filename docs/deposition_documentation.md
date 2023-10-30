@@ -288,4 +288,5 @@ The Step-by-step guideline above gives detailed information on what each column 
 ![img](docs/img/CMMC_deposition/Slide15.png)
 
 
-
+## Page Contributions
+Martijn van Faassen, Helena Mannochio-Russo, Marilyn de Graeve
