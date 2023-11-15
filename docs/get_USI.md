@@ -41,11 +41,11 @@ We highly encourage that a metadata table associated with files is deposited as 
 
 All MS/MS spectra that are curated in a GNPS spectral library can be found [here](https://library.gnps2.org/). To get the USI, find the compound of interest by searching the columns or SMILES. For example, the USI for the microbially conjugated Phe-CA can be found by typing "Phe-CA" and clicking in the circle relative to the row you want to select.
 
-![img](docs/img/Get_USI/Slide1.png)
+![img](img/Get_USI/Slide1.png)
 
 Clicking on the circle results in the display of the spectrum and the USI, which are visible by scrolling up.
 
-![img](docs/img/Get_USI/Slide2.png)
+![img](img/Get_USI/Slide2.png)
 
 Therefore, this is the USI for this spectrum highlighter above:
 **mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00011432553**
@@ -55,11 +55,11 @@ Therefore, this is the USI for this spectrum highlighter above:
 - Go to the GNPS Dashboard and wait a few seconds for the page to load.
 - Provide the data accession number (MassIVE ID) of the dataset.
 
-![img](docs/img/Get_USI/Slide3.png)
+![img](img/Get_USI/Slide3.png)
 
 - When the dataset is loaded in the GNPS Dashboard, then the name of the dataset and associated files will show up.
 
-![img](docs/img/Get_USI/Slide4.png)
+![img](img/Get_USI/Slide4.png)
 
 - Select the file from which you want to use the MS/MS to upload to the CMMC-kb.
 
@@ -67,7 +67,7 @@ Therefore, this is the USI for this spectrum highlighter above:
 
 - After selecting the .mzML file of interest, scroll up and click on "_visualize 1 file_".
 
-![img](docs/img/Get_USI/Slide5.png)
+![img](img/Get_USI/Slide5.png)
 
 - Filter for the ion of interest. 
 
@@ -79,7 +79,7 @@ Detailed descriptions of how to navigate the GNPS Dashboard can be found [here](
 
 - Get the USI from the new window.
 
-![img](docs/img/Get_USI/Slide9.png)
+![img](img/Get_USI/Slide9.png)
 
 ## Page Contributions
 Helena Mannochio-Russo, Pieter Dorrestein
