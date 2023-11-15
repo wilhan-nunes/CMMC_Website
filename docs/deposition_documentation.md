@@ -9,6 +9,8 @@ This is a guide to upload your data about microbial metabolites to the collabora
 
 [CMMC knowledgebase](https://cmmc-kb.gnps2.org/)
 
+[How to get a USI?](get_USI.md)
+
 ## What is the CMMC knowledgebase?
 Microbiome-derived metabolites are vital for human health and other ecosystems, but there is no central place where the community can store, share, and reuse this knowledge. Existing resources have limited information on microbial metabolites, their sources, genes and functions. To fill this gap, we created CMMC-kb, a knowledge base that integrates microbial information with the GNPS mass spectrometry platform and the community. CMMC-kb enables users to annotate and visualize both known and unknown microbial metabolites, and to explore and interpret their biological roles. CMMC-kb is a community-driven and constantly updated microbiome resource that allows users to link any microbial metabolite, known or unknown, with its source and bioactivity information. Moreover, the web interface and analysis tools provide benefits to both data contributors and other users.
 
