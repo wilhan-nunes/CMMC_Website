@@ -34,23 +34,11 @@ The [Molecular Networking enrichment workflow](https://gnps2.org/workflowinput?w
 This infrastructure is being built with R01's that responded to 
 Identification and Characterization of Bioactive Microbial Metabolites for Advancing Research on Microbe-Diet-Host Interactions (R01) https://grants.nih.gov/grants/guide/pa-files/par-21-253.html Here is a link to all the current R01 grantees that received awards under this mechanism - [All R01 Grants Link](https://reporter.nih.gov/search/eJ5UvHBXWU6-ZQa83cfFnw/projects). In addition, the CMMC will be curated with the large scientific community.
 
-## Trainings
-Workshops are being provided to enable grantees and the large scientific community to get familiarized with the tools developed as part of these efforts. Check out below the workshops that were already organized!
-
-- **Classical Molecular Networking workshop - May 30th, 2023**
-<iframe width="600" height="350" src="https://www.youtube.com/embed/wUrsqmAFEys"> </iframe>
-
-- **microbeMASST workshop  - June 5th, 2023**
-<iframe width="600" height="350" src="https://www.youtube.com/embed/aB15wHR9kbY"> </iframe>
-
-- **Network Enrichment analysis and CMMC Deposition workflow workshop  - October 31st, 2023**
-<iframe width="600" height="350" src="https://www.youtube.com/embed/EcEq1uVP8TQ"> </iframe>
-
 ## Leadership
 Pieter C. Dorrestein - UC San Diego - [Lab Link](https://dorresteinlab.ucsd.edu/)
 
 Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/)
 
-Nuno Bandiera - UC San Diego
+Nuno Bandeira - UC San Diego 
 
 Robin Knight - UC San Diego

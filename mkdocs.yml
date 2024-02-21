@@ -9,6 +9,8 @@ nav:
         - Getting a USI: get_USI.md
         - CMMC Deposition Workflow: deposition_documentation.md
         - Network Enrichment analysis: network_enrichment.md
+    - CMMC Workshops/Training: workshops.md
+    - Contact and Office Hours: contact.md
     
 theme:
     name: material
