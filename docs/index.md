@@ -51,6 +51,6 @@ Pieter C. Dorrestein - UC San Diego - [Lab Link](https://dorresteinlab.ucsd.edu/
 
 Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/)
 
-Nuno Bandiera - UC San Diego
+Nuno Bandeira - UC San Diego 
 
 Robin Knight - UC San Diego
