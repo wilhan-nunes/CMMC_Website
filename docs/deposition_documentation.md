@@ -69,22 +69,23 @@ The template has the following format:
 
 ![img](img/CMMC_deposition/Slide6.png)
 
-3. Download the spreadsheet as tab-separated values (.tsv).
-   - Save a copy of the CMMC-kb metabolite information template by going to "File - Make a copy" into a personal google drive or save a local copy to your computer (use the .tsv format or tab-delimited .txt file). 
+3. Save a copy of the CMMC-kb metabolite information template in your Google Drive by going to "File - Make a copy".
+
+4. Fill in the information in each column using the drop-down menus when applicable. Details for each field are available in the "Information and Columns Descriptions" sheet on the same Google Sheet document, and below in this same documentation.
+
+5. Download the spreadsheet as tab-separated values (.tsv).
 
 ![img](img/CMMC_deposition/Slide7.png)
 
-4. Fill in metabolite information in the respective fields or by using the drop-down menus when applicable for each microbiome related metabolite you want to upload.
+6. Go to the [CMMC deposition workflow](https://gnps2.org/workflowinput?workflowname=cmmc_deposition_workflow)
 
-5. Go to the [CMMC deposition workflow](https://gnps2.org/workflowinput?workflowname=cmmc_deposition_workflow)
-
-6. Enter the Job description. This is just for personal tracking of the Job and is not going to be deposited in the CMMC-kb (for example: give the name of the class of metabolites you are uploading).
+7. Enter the Job description. This is just for personal tracking of the Job and is not going to be deposited in the CMMC-kb (for example: give the name of the class of metabolites you are uploading).
 
    -> Select **Batch Upload**
 
 ![img](img/CMMC_deposition/Slide8.png)
 
-7. Upload your .tsv file to your online environment in GNPS2:
+8. Upload your .tsv file to your online environment in GNPS2:
    - Select the menu "File Browser" on the top right
 
 ![img](img/CMMC_deposition/Slide9.png)
@@ -93,7 +94,7 @@ The template has the following format:
 
 ![img](img/CMMC_deposition/Slide10.png)
 
-8. You can return to the browser where the workflow is open. Select the .tsv file you just uploaded in the “File browser”:
+9. You can return to the browser where the workflow is open. Select the .tsv file you just uploaded in the “File browser”:
    - Click on "Select TSV file path"
 
 ![img](img/CMMC_deposition/Slide11.png)
@@ -104,7 +105,7 @@ The template has the following format:
 
 ![img](img/CMMC_deposition/Slide13.png)
 
-9. Press 'Submit Workflow'
+10. Press 'Submit Workflow'
 
 
 # Step-by-step guideline Input Fields for CMMC-kb workflow (Single and Batch upload)
@@ -118,6 +119,16 @@ Please input the Universal Spectrum Identifier (USI) for either an unidentified 
 
 **_Example:_**
 _mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000426629;mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000425589_
+
+### Has the metabolite been confirmed or predicted to be microbial?
+Please select from the drop-down menu if the metabolite being deposited has been confirmed or predicted to be microbial.
+
+**_Example:_** Predicted
+
+### If predicted, why do you think it is a microbial metabolite?
+If "Predicted" was selected in the last field, please describe why you think that this compound is microbially produced. You can describe any analyses that were done or experiments that support that. If this is a confirmed microbial metabolite, this field can be left blank.
+
+**_Example:_** Synthetic compound searched in microbeMASST.
 
 ## Metabolite identification: 
 ### Molecule name (if known) (input_name)
