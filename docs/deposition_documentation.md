@@ -178,7 +178,7 @@ If the metabolite results from microbial metabolism, provide the name of the pre
 _**Example:** For p-cresol this would be: p-Hydroxyphenylacetic acid;4-Hydroxyphenylacetic acid_
 
 ### Structure of the original molecule that is being modified by the microbe (input_original_molecule_structure)
-If the metabolite originates from microbial metabolism, input the structure of the precursor molecule, using either SMILES or INChI format.
+If the metabolite originates from microbial metabolism, input the structure of the precursor molecule using SMILES format.
 
 _**Example:** p-Hydroxyphenylacetic acid is also a microbial metabolite (besides being derived from human metabolism and diet): C1=CC(=CC=C1CC(=O)O)OC1=CC(=CC=C1CC(=O)O)O_
 
