@@ -1,6 +1,6 @@
 # Collaborative Microbial Metabolite Center
 
-![](img/logo.png)
+![CMMC Logo](img/logo.png)
 
 Welcome to the Collaborative Microbial Metabolite (CMMC) Center at the UC San Diego and UC Riverside. The goal of the CMMC is to build a microbial metabolite knowledgebase with and for the scientific community according to the RFA Identification and Characterization of Bioactive Microbial Metabolites. This center is supported by the National Institutes of Health (NIH) Advancing Research on Microbe-Diet-Host Interactions Knowledgebase Management Center (U24) grant mechanism - [RFA Link](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-21-014.html). 
 
