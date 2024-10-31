@@ -42,3 +42,45 @@ Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/)
 Nuno Bandeira - UC San Diego 
 
 Robin Knight - UC San Diego
+
+## Database Statistics Summary
+
+### CMMC-KB Growth
+
+![CMMC depositions graph](/img/statistics/cmmc_growth.svg)
+
+### CMMC-KB - Top contributors<sup>*</sup>
+
+| User             | Depositions | %     |
+|------------------|-------------|-------|
+| wilhan.nunes     | 25489       | 81.71 |
+| fernandaoliveira | 2241        | 7.18  |
+| amcaraballor     | 789         | 2.53  |
+| helenamrusso     | 442         | 1.42  |
+| luciacancelada   | 339         | 1.09  |
+| hfaassen         | 274         | 0.88  |
+| zhaohaoq         | 204         | 0.65  |
+| simonezuffa      | 185         | 0.59  |
+| smagyari         | 178         | 0.57  |
+| ikoester         | 151         | 0.48  |
+| yasel            | 148         | 0.47  |
+| fvasquezcastro   | 111         | 0.36  |
+| GiovanniAndrea   | 102         | 0.33  |
+| spthomas         | 102         | 0.33  |
+| mohantyipsita92  | 88          | 0.28  |
+| ACumsille        | 67          | 0.21  |
+| iliakopsofia     | 63          | 0.20  |
+| moyses           | 48          | 0.15  |
+| liviasoman       | 40          | 0.13  |
+| pwpgomes         | 39          | 0.13  |
+| rrtorres         | 27          | 0.09  |
+| monicamonge      | 20          | 0.06  |
+| oloap2           | 10          | 0.03  |
+| sabina.llarosa   | 9           | 0.03  |
+| tekela           | 9           | 0.03  |
+| sh1646           | 8           | 0.03  |
+| neavalon         | 6           | 0.02  |
+| berenike.wagner  | 4           | 0.01  |
+
+<small style="font-size: 0.8em;"><sup>*</sup>Top contributors in terms of total USIs deposited. This may not represent unique compounds.
+<br>As of: 10/31/2024</small>
