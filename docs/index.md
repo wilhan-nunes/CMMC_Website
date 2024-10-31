@@ -47,9 +47,11 @@ Robin Knight - UC San Diego
 
 ### CMMC-KB Growth
 
-![CMMC depositions graph](/img/statistics/cmmc_growth.svg)
+![New InchiKeys](img/statistics/cmmc_growth_new_inchikeys_by_month.svg)
+![Total InchiKeys](img/statistics/cmmc_growth_cumulative_inchikeys_by_month.svg)
+![CMMC depositions graph](img/statistics/cmmc_growth_total_usis.svg)
 
-### CMMC-KB - Top contributors<sup>*</sup>
+### CMMC-KB - Top contributors<sup>*</sup> 
 
 | User             | Depositions | %     |
 |------------------|-------------|-------|
