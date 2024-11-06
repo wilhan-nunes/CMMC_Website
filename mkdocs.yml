@@ -11,6 +11,7 @@ nav:
         - Network Enrichment analysis: network_enrichment.md
     - CMMC Workshops/Training: workshops.md
     - Contact and Office Hours: contact.md
+    - Molecule of the month: molecule_month.md
     
 theme:
     name: material
