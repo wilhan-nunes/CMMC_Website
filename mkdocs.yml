@@ -36,5 +36,4 @@ markdown_extensions:
 
 extra:
   analytics:
-    provider: google
-    property: XXX
+    provider: umami
