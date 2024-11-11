@@ -15,6 +15,7 @@ nav:
     
 theme:
     name: material
+    custom_dir: overrides
     palette:
         primary: '#003DA5'
         accent: '#FFB81C'
