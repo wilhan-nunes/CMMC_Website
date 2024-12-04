@@ -29,12 +29,13 @@ plugins:
     - search
     - git-revision-date-localized:
         type: datetime
+    - glightbox
 
 markdown_extensions:
     - toc:
         permalink: true
     - admonition
-    - glightbox
+
 
 extra:
   analytics:
