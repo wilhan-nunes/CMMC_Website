@@ -1,3 +1,7 @@
+## February 2025
+
+![February 2025 - Fumonisin B2](img/molecule_month/feb_molecule_month2.svg)
+
 ## January 2025
 
 ![January 2025 - Dipyrimicin](img/molecule_month/Jan_CMMC.svg)
