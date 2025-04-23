@@ -2,7 +2,7 @@
 
 This is a guide on how you can get a USI to further deposit it in the collaborative microbial metabolite center knowledgebase (CMMC-kb). 
 
-# Important links:
+## Important links:
 
 [GNPS2 website](https://gnps2.org/homepage)
 
@@ -75,7 +75,7 @@ Detailed descriptions of how to navigate the GNPS Dashboard can be found [here](
 
 - In the MS/MS visualization, click on "_View Metabolomics USI_".
 
-<img src="https://github.com/helenamrusso/CMMC_Website/blob/master/docs/img/Get_USI/Slide8.png" width="500" height="400">
+![img](img/Get_USI/Slide8.png)
 
 - Get the USI from the new window.
 
