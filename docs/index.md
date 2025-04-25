@@ -23,7 +23,7 @@ The knowledgebase is being constantly updated with new inputs from the community
 
 [MicrobeMASST](https://masst.gnps2.org/microbemasst/) allows MS/MS searches against >60,000 LC-MS/MS files from cultured bacteria and fungi. Such searches allow the user to observe whether the same MS/MS (or analog) belongs to a microbial metabolite of interest.
 
-For more information about microbeMASST, check out the [preprint](https://doi.org/10.1101/2023.07.20.549584) currently available!
+For more information about microbeMASST, check out the [paper](https://doi.org/10.1038/s41564-023-01575-9) currently available!
 
 ### Network enrichment workflow
 The [Molecular Networking enrichment workflow](https://gnps2.org/workflowinput?workflowname=cmmc_gnps_network_enrichment_workflow) was also developed to enable users to reuse the knowledgebase to interpret their own datasets and how microbial metabolites could be playing a role in a specific study.
