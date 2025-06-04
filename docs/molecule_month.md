@@ -1,6 +1,6 @@
 ## June 2025
 
-![June 2025 - Griseofulvin](img/molecule_month/june_molecule.svg)
+![June 2025 - Griseofulvin](img/molecule_month/june_molecule_2.svg)
 
 ## April 2025
 
