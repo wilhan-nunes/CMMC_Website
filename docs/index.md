@@ -23,7 +23,7 @@ The knowledgebase is being constantly updated with new inputs from the community
 
 [MicrobeMASST](https://masst.gnps2.org/microbemasst/) allows MS/MS searches against >60,000 LC-MS/MS files from cultured bacteria and fungi. Such searches allow the user to observe whether the same MS/MS (or analog) belongs to a microbial metabolite of interest.
 
-For more information about microbeMASST, check out the [preprint](https://doi.org/10.1101/2023.07.20.549584) currently available!
+For more information about microbeMASST, check out the [paper](https://doi.org/10.1038/s41564-023-01575-9) currently available!
 
 ### Network enrichment workflow
 The [Molecular Networking enrichment workflow](https://gnps2.org/workflowinput?workflowname=cmmc_gnps_network_enrichment_workflow) was also developed to enable users to reuse the knowledgebase to interpret their own datasets and how microbial metabolites could be playing a role in a specific study.
@@ -39,9 +39,9 @@ Pieter C. Dorrestein - UC San Diego - [Lab Link](https://dorresteinlab.ucsd.edu/
 
 Mingxun Wang - UC Riverside - [Lab Link](https://www.cs.ucr.edu/~mingxunw/)
 
-Nuno Bandeira - UC San Diego 
+Nuno Bandeira - UC San Diego - [Lab Link](https://pharmacy.ucsd.edu/faculty/bandeira)
 
-Robin Knight - UC San Diego
+Rob Knight - UC San Diego - [Lab Link](https://knightlab.ucsd.edu/)
 
 ## Database Statistics Summary
 
@@ -51,38 +51,41 @@ Robin Knight - UC San Diego
 ![Total InchiKeys](img/statistics/cmmc_growth_cumulative_inchikeys_by_month.svg)
 ![CMMC depositions graph](img/statistics/cmmc_growth_total_usis.svg)
 
-### CMMC-KB - Top contributors<sup>*</sup> 
+### CMMC-KB - Top contributors
 
-| User             | Depositions | %     |
-|------------------|-------------|-------|
-| wilhan.nunes     | 25489       | 81.71 |
-| fernandaoliveira | 2241        | 7.18  |
-| amcaraballor     | 789         | 2.53  |
-| helenamrusso     | 442         | 1.42  |
-| luciacancelada   | 339         | 1.09  |
-| hfaassen         | 274         | 0.88  |
-| zhaohaoq         | 204         | 0.65  |
-| simonezuffa      | 185         | 0.59  |
-| smagyari         | 178         | 0.57  |
-| ikoester         | 151         | 0.48  |
-| yasel            | 148         | 0.47  |
-| fvasquezcastro   | 111         | 0.36  |
-| GiovanniAndrea   | 102         | 0.33  |
-| spthomas         | 102         | 0.33  |
-| mohantyipsita92  | 88          | 0.28  |
-| ACumsille        | 67          | 0.21  |
-| iliakopsofia     | 63          | 0.20  |
-| moyses           | 48          | 0.15  |
-| liviasoman       | 40          | 0.13  |
-| pwpgomes         | 39          | 0.13  |
-| rrtorres         | 27          | 0.09  |
-| monicamonge      | 20          | 0.06  |
-| oloap2           | 10          | 0.03  |
-| sabina.llarosa   | 9           | 0.03  |
-| tekela           | 9           | 0.03  |
-| sh1646           | 8           | 0.03  |
-| neavalon         | 6           | 0.02  |
-| berenike.wagner  | 4           | 0.01  |
+!!! tip "Top contributors in terms of total USIs deposited. This may not represent unique compounds."
 
-<small style="font-size: 0.8em;"><sup>*</sup>Top contributors in terms of total USIs deposited. This may not represent unique compounds.
-<br>As of: 10/31/2024</small>
+| user                | Depositions (USIs) | Depositions (USIs / %) |  Deposition Tasks |
+|:--------------------|-------------------:|-----------------------:|------------------:|
+| wilhan.nunes        |              38394 |                  82.66 |                15 |
+| amcaraballor        |               2344 |                   5.05 |                 6 |
+| fernandaoliveira    |               2241 |                   4.82 |                 5 |
+| helenamrusso        |                627 |                   1.35 |                 4 |
+| luciacancelada      |                339 |                   0.73 |                 1 |
+| kkvitne             |                309 |                   0.67 |                 1 |
+| ftugizimana         |                287 |                   0.62 |                 1 |
+| hfaassen            |                274 |                   0.59 |                 1 |
+| zhaohaoq            |                204 |                   0.44 |                 4 |
+| simonezuffa         |                185 |                    0.4 |                 1 |
+| smagyari            |                178 |                   0.38 |                 1 |
+| ikoester            |                151 |                   0.33 |                 1 |
+| yasel               |                148 |                   0.32 |                 1 |
+| fvasquezcastro      |                111 |                   0.24 |                 1 |
+| spthomas            |                102 |                   0.22 |                 1 |
+| GiovanniAndrea      |                102 |                   0.22 |                 2 |
+| mohantyipsita92     |                 88 |                   0.19 |                 1 |
+| ACumsille           |                 67 |                   0.14 |                 1 |
+| iliakopsofia        |                 63 |                   0.14 |                 3 |
+| moyses              |                 48 |                    0.1 |                 2 |
+| liviasoman          |                 40 |                   0.09 |                 1 |
+| pwpgomes            |                 39 |                   0.08 |                 1 |
+| rrtorres            |                 27 |                   0.06 |                 1 |
+| monicamonge         |                 20 |                   0.04 |                 1 |
+| oloap2              |                 10 |                   0.02 |                 1 |
+| tekela              |                  9 |                   0.02 |                 9 |
+| sabina.llarosa      |                  9 |                   0.02 |                 9 |
+| lkyei               |                  8 |                   0.02 |                 1 |
+| sh1646              |                  8 |                   0.02 |                 8 |
+| Santosh.Lamichhane  |                  7 |                   0.02 |                 7 |
+| neavalon            |                  6 |                   0.01 |                 6 |
+| berenike.wagner     |                  4 |                   0.01 |                 4 |

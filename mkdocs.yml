@@ -29,12 +29,14 @@ plugins:
     - search
     - git-revision-date-localized:
         type: datetime
+    - git-authors
     - glightbox
 
 markdown_extensions:
     - toc:
         permalink: true
     - admonition
+    - pymdownx.details
 
 
 extra:
