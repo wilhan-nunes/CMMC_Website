@@ -1,7 +1,10 @@
+## June 2025
+
+![June 2025 - Griseofulvin](img/molecule_month/june_molecule_2.svg)
+
 ## April 2025
 
 ![April 2025 - Colibactin](img/molecule_month/april_molecule.svg)
-
 
 ## March 2025
 
