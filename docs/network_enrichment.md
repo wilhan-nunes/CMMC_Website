@@ -1,12 +1,12 @@
 # Documentation for Network Enrichment workflow
 This is a guide for Network Enrichment Workflow in the collaborative microbial metabolite center knowledgebase (CMMC-kb). 
 
-## Important Links:
-[GNPS2 website](https://gnps2.org/homepage)
+!!! tip "Check out our new [CMMC Analysis Dashboard App](https://cmmc-dashboard.gnps2.org/)"
 
-[Network Enrichment workflow](https://gnps2.org/workflowinput?workflowname=cmmc_gnps_network_enrichment_workflow)
-
-[CMMC knowledgebase](https://cmmc-kb.gnps2.org/)
+!!! info "Important Links"
+    - [GNPS2 website](https://gnps2.org/homepage)
+    - [Network Enrichment workflow](https://gnps2.org/workflowinput?workflowname=cmmc_gnps_network_enrichment_workflow)
+    - [CMMC knowledgebase](https://cmmc-kb.gnps2.org/)
 
 ## Molecular Network Enrichment Workflow ([cmmc_gnps_network_enrichment_workflow](https://gnps2.org/workflowinput?workflowname=cmmc_gnps_network_enrichment_workflow))
 
@@ -180,7 +180,7 @@ Finally, click "Apply" to see the changes.
 
 **Step 14.** In the network visualization we can then explore the charts. In the figure below, we can see two nodes with this specific family distribution for the reported microbes. 
 For the cholic acid conjugated to serine (cholic acid-ser) depicted here, we can see that we found three matches in the CMMC-KB and that 
-the microbes associated are from the families **Bifidobacteriacea, Clostridiacea and Lachnospiraceae**.
+the microbes associated are from the families **Bifidobacteriaceae, Clostridiaceae and Lachnospiraceae**.
 
 
 ![img](img/Network_enrichment/cytoscape_family_distribution.png)

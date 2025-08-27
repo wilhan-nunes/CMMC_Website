@@ -4,11 +4,19 @@
 
 Welcome to the Collaborative Microbial Metabolite (CMMC) Center at the UC San Diego and UC Riverside. The goal of the CMMC is to build a microbial metabolite knowledgebase with and for the scientific community according to the RFA Identification and Characterization of Bioactive Microbial Metabolites. This center is supported by the National Institutes of Health (NIH) Advancing Research on Microbe-Diet-Host Interactions Knowledgebase Management Center (U24) grant mechanism - [RFA Link](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-21-014.html). 
 
+!!! tip "New tools available!"
+    - Check out our new [**CMMC Analysis Dashboard App**](https://cmmc-dashboard.gnps2.org/) - a tool to help you annotate microbial metabolites in your samples!
+    - Access here the newly released [**MicrobiomeMASST**](https://masst.gnps2.org/microbiomemasst/).
+    - We have several new tools available for the community, check them out in the [**MetaboApps documentation**](https://wang-bioinformatics-lab.github.io/GNPS2_Documentation/metaboapps_overview/).
+
 ## Key Objectives
 We aim to capture the knowledge about microbial metabolites, even detectable but uncharacterized microbial metabolites to build a microbial metabolite knowledgebase. The goal of the knowledgebase is to ensure it can be reused to make it easier to mechanistically understand the functional role of the microbiome. This will be accomplished through digitizing the relationships between diet, host and microbial metabolism and the activities of the metabolites. 
 
+!!! info "Database Statistics Summary"
+    You can check the growth of the CMMC-KB going to the [Statistics Page](https://cmmc-kb.gnps2.org/statistics/).
+
 ## Tools created by the CMMC with and for the community
-Here is a list of tools that were developed specifically for the CMMC that is in conjunction with the computational tools available at UCSD and UCR. 
+Here is a list of tools that were developed specifically for the CMMC that is in conjunction with the computational tools available at UCSD and UCR.
 
 ### Microbial metabolite knowledge upload portal
 To build the microbial knowledgebase, we have generated an upload portal. This will generate the foundational knowledgebase to enable future tool building. As RO1 grantees add to the knowledgebase, it will be immediately usable in GNPS-based molecular networking ([Link](https://ccms-ucsd.github.io/GNPSDocumentation/)) so that microbial metabolite knowledge can be immediately identified from complex samples. 
@@ -43,49 +51,4 @@ Nuno Bandeira - UC San Diego - [Lab Link](https://pharmacy.ucsd.edu/faculty/band
 
 Rob Knight - UC San Diego - [Lab Link](https://knightlab.ucsd.edu/)
 
-## Database Statistics Summary
 
-### CMMC-KB Growth
-
-![New InchiKeys](img/statistics/cmmc_growth_new_inchikeys_by_month.svg)
-![Total InchiKeys](img/statistics/cmmc_growth_cumulative_inchikeys_by_month.svg)
-![CMMC depositions graph](img/statistics/cmmc_growth_total_usis.svg)
-
-### CMMC-KB - Top contributors
-
-!!! tip "Top contributors in terms of total USIs deposited. This may not represent unique compounds."
-
-| user                | Depositions (USIs) | Depositions (USIs / %) |  Deposition Tasks |
-|:--------------------|-------------------:|-----------------------:|------------------:|
-| wilhan.nunes        |              38394 |                  82.66 |                15 |
-| amcaraballor        |               2344 |                   5.05 |                 6 |
-| fernandaoliveira    |               2241 |                   4.82 |                 5 |
-| helenamrusso        |                627 |                   1.35 |                 4 |
-| luciacancelada      |                339 |                   0.73 |                 1 |
-| kkvitne             |                309 |                   0.67 |                 1 |
-| ftugizimana         |                287 |                   0.62 |                 1 |
-| hfaassen            |                274 |                   0.59 |                 1 |
-| zhaohaoq            |                204 |                   0.44 |                 4 |
-| simonezuffa         |                185 |                    0.4 |                 1 |
-| smagyari            |                178 |                   0.38 |                 1 |
-| ikoester            |                151 |                   0.33 |                 1 |
-| yasel               |                148 |                   0.32 |                 1 |
-| fvasquezcastro      |                111 |                   0.24 |                 1 |
-| spthomas            |                102 |                   0.22 |                 1 |
-| GiovanniAndrea      |                102 |                   0.22 |                 2 |
-| mohantyipsita92     |                 88 |                   0.19 |                 1 |
-| ACumsille           |                 67 |                   0.14 |                 1 |
-| iliakopsofia        |                 63 |                   0.14 |                 3 |
-| moyses              |                 48 |                    0.1 |                 2 |
-| liviasoman          |                 40 |                   0.09 |                 1 |
-| pwpgomes            |                 39 |                   0.08 |                 1 |
-| rrtorres            |                 27 |                   0.06 |                 1 |
-| monicamonge         |                 20 |                   0.04 |                 1 |
-| oloap2              |                 10 |                   0.02 |                 1 |
-| tekela              |                  9 |                   0.02 |                 9 |
-| sabina.llarosa      |                  9 |                   0.02 |                 9 |
-| lkyei               |                  8 |                   0.02 |                 1 |
-| sh1646              |                  8 |                   0.02 |                 8 |
-| Santosh.Lamichhane  |                  7 |                   0.02 |                 7 |
-| neavalon            |                  6 |                   0.01 |                 6 |
-| berenike.wagner     |                  4 |                   0.01 |                 4 |
