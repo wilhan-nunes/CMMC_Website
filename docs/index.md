@@ -6,7 +6,7 @@ Welcome to the Collaborative Microbial Metabolite (CMMC) Center at the UC San Di
 
 !!! tip "New tools available!"
     - Check out our new [**CMMC Analysis Dashboard App**](https://cmmc-dashboard.gnps2.org/) - a tool to help you annotate microbial metabolites in your samples!
-    - Access here the newly released [**MicrobiomeMASST**](https://masst.gnps2.org/microbiomemasst/).
+    - Access here the newly released [**MicrobiomeMASST**](https://masst.gnps2.org/microbiomemasst/) and [**StructureMASST**](https://structure-masst.gnps2.org/) .
     - We have several new tools available for the community, check them out in the [**MetaboApps documentation**](https://wang-bioinformatics-lab.github.io/GNPS2_Documentation/metaboapps_overview/).
 
 ## Key Objectives
@@ -17,6 +17,13 @@ We aim to capture the knowledge about microbial metabolites, even detectable but
 
 ## Tools created by the CMMC with and for the community
 Here is a list of tools that were developed specifically for the CMMC that is in conjunction with the computational tools available at UCSD and UCR.
+
+### StructureMASST
+[StructureMASST](https://structure-masst.gnps2.org/) is a web-based search engine application for pan-repository MS/MS searches using a chemical name, structure or substructure as input. This enables searching multiple MS/MS spectra distributed among all the public data. 
+It also integrates specific-domain MASST searches, such as Microbiome, Microbe and FoodMASST, to allow users to search for the occurrence of a specific metabolite or a metabolite class in specific contexts such as microbiome or food datasets.
+
+### MicrobiomeMASST
+[MicrobiomeMASST](https://masst.gnps2.org/microbiomemasst/).
 
 ### Microbial metabolite knowledge upload portal
 To build the microbial knowledgebase, we have generated an upload portal. This will generate the foundational knowledgebase to enable future tool building. As RO1 grantees add to the knowledgebase, it will be immediately usable in GNPS-based molecular networking ([Link](https://ccms-ucsd.github.io/GNPSDocumentation/)) so that microbial metabolite knowledge can be immediately identified from complex samples. 
